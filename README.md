@@ -12,6 +12,6 @@ Day 21 challenge of 21-days coding challenge
 
 
 
-Project link: [Geolocation](https://smtoyedeji.github.io/javascript21-21.github.io/)
+Project link: [Geolocation](https://smtoyedeji.github.io/geolocation/)
 
 
